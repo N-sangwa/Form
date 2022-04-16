@@ -1,0 +1,168 @@
+body{
+    background-image: linear-gradient(to right,#F1CD80, #DA99B6 );
+    align:center;
+}
+.box1{
+    border: 1px;
+     height:95vh;
+     width: 110vh;
+     border-top-right-radius:15px ;
+     border-bottom-right-radius:15px;
+     margin-left:38%;
+     background-color:#ece7dc;
+     position: fixed;
+}
+.box2{
+    border: 1px #000;
+    height: 95vh;
+    width: 60vh;
+    margin-left:8.7%;
+    border-top-left-radius:15px ;
+    border-bottom-left-radius:15px;
+    background-image: linear-gradient(to top,#e0cea7, #f7e896 );
+}
+
+p{
+    text-align:right;
+    margin-right: 10%;
+}
+h2{
+    margin-left:19.5%;
+    margin-top:10%;
+}
+.signwithgoogle{
+    padding: 10px 40px 10px 60px;
+    background-color: #425ca5;
+    border-radius:4px;
+    color:rgb(255,255, 255);
+    cursor: pointer;
+    margin-left: 7.7%;
+    position: fixed;
+    margin-top: -5%;
+
+
+}
+.hr{
+display: flex;
+flex-direction:row;
+padding: 0px 70px;
+width:400px;
+margin-left: 12%;
+}
+.login{  
+        width:250px;      
+        padding: 40px; 
+        
+
+    
+          
+}  
+#fname{
+    width: 180px; 
+    height: 30px;  
+    border:1px;  
+    border-radius: 1px;  
+    padding-left:-4px;
+    border-width: -120%;
+    border: radius 15px;
+}
+.full{
+    margin-left:40%;
+}
+#uname{
+    width: 180px; 
+    height: 30px;  
+    border:1px;  
+    border-radius: 1px;  
+}
+.user{
+    margin-left: 13%;
+}
+.names{
+    display: flex;
+}
+#email{
+    width: 400px; 
+    height: 30px;  
+    border:1px; 
+}
+.email{
+    margin-left:39.5%;
+}
+#pass{
+    width: 400px; 
+    height: 30px;  
+    border:1px; 
+    padding:0px 0px 0px 6px;
+}
+.pass{
+    margin-left:39.5%;  
+}
+
+.check {
+    width: 200%;
+    margin-left:37%;    
+  }
+  
+  #check{
+      display: inline-block;
+     
+      text-align: left;
+  }
+
+.create{      
+       padding: 10%;
+       margin-left: 28%;
+       width: 100%;
+     
+    
+
+}
+#create{
+    padding: 10px 25px 10px 25px;
+    background-color: rgb(150, 18, 18);
+    color: #ece7dc;
+    border-radius: 10px;
+    }
+    .footer{
+        width: 200%;
+        margin-left:36%;  
+        font-size: 60%;
+    }
+.icons{
+    display:flex;
+    margin-left: 160%;
+    /* padding-bottom: -5%; */
+    margin-bottom: -11%;
+  padding-bottom: 0%;
+    }
+.icons{
+    margin-bottom:-20%;
+    position: relative; bottom: 50px;
+   
+}
+.p1{
+    margin-right:70%;
+   
+}
+.paragraph{
+    width:300%;   
+}
+.image{
+    margin-top: 30%;
+    
+}
+.drible{
+    margin-left:60%;
+    font-family: 'Updock', cursive;
+    font-size:200%;
+}
+.footer2{
+    margin-left:20%;
+   
+}
+.footer2 a{
+   color:#000
+}
+    
+
