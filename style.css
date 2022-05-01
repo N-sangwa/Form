@@ -6,6 +6,7 @@ body{
     border: 1px;
      height:95vh;
      width: 110vh;
+     position: center;
      border-top-right-radius:15px ;
      border-bottom-right-radius:15px;
      margin-left:38%;
@@ -16,7 +17,8 @@ body{
     border: 1px #000;
     height: 95vh;
     width: 60vh;
-    margin-left:8.7%;
+    position: center;
+    margin-left:12%;
     border-top-left-radius:15px ;
     border-bottom-left-radius:15px;
     background-image: linear-gradient(to top,#e0cea7, #f7e896 );
@@ -163,6 +165,10 @@ margin-left: 12%;
 }
 .footer2 a{
    color:#000
+}
+.logins{
+    text-align: center;
+    margin-top: -4%;
 }
     
 
